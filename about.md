@@ -4,7 +4,7 @@ title: About
 ---
 
 <p class="message">
-  Hey there! This page is included as an example. Feel free to customize it for your own use upon downloading. Carry on!
+Roger Chi-Jen Lo (羅啟仁) is a MS student in the Department of Communication Engineering in National Taiwan University; he received his BS degree from the Department of Electrical Engineering, National Taiwan University. He is recently under the mentorship of Prof. Tsung-Nan Lin. For any other details, just survey this website, or feel free to contact him via email: <intelisef47@gmail.com>. Have a nice day!
 </p>
 
 In the novel, *The Strange Case of Dr. Jeykll and Mr. Hyde*, Mr. Poole is Dr. Jekyll's virtuous and loyal butler. Similarly, Poole is an upstanding and effective butler that helps you build Jekyll themes. It's made by [@mdo](https://twitter.com/mdo).
