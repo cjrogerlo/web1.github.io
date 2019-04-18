@@ -6,7 +6,7 @@ a, a:hover {
 
 .socialbtns, .socialbtns ul, .socialbtns li {
   margin: 0;
-  padding: 8px;
+  padding: 1px;
 }
 
 .socialbtns li {
@@ -21,11 +21,11 @@ a, a:hover {
 	background-color: #FFF;
 	border: 1px solid #E5E5E5;
 	padding-top: 12px;
-	padding-left: 3px;
-	border-radius: 12px;
-	-moz-border-radius: 12px;
-	-webkit-border-radius: 12px;
-	-o-border-radius: 12px;
+	padding-left: 0px;
+	border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-o-border-radius: 20px;
 }
 
 .socialbtns .fa:hover {
