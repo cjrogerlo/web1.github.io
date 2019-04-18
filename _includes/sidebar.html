@@ -7,7 +7,7 @@
         </a>
       </h1>
       <p class="lead">{{ site.description }}</p>
-      <img src="img/profile.jpg" height="200px" width="200px">
+      <img src="../img/profile.jpg" height="200px" width="200px">
     </div>
 
     <div class="socialbtns">
@@ -21,6 +21,8 @@
     </div>
 
     <nav class="sidebar-nav">
+      <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
+
       {% comment %}
         The code below dynamically generates a sidebar nav of pages with
         `layout: page` in the front-matter. See readme for usage.
@@ -34,6 +36,8 @@
           {% endif %}
         {% endif %}
       {% endfor %}
+
+      <a class="sidebar-nav-item" href="../about">About</a>
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
