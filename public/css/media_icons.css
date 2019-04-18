@@ -20,11 +20,11 @@ a, a:hover {
 	color: #E5E5E5;
 	background-color: #FFF;
 	border: 1px solid #E5E5E5;
-	padding-top: 12px;
-	border-radius: 22px;
-	-moz-border-radius: 22px;
-	-webkit-border-radius: 22px;
-	-o-border-radius: 22px;
+	padding-top: 10px;
+	border-radius: 20px;
+	-moz-border-radius: 20px;
+	-webkit-border-radius: 20px;
+	-o-border-radius: 20px;
 }
 
 .socialbtns .fa:hover {
