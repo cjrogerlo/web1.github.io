@@ -10,6 +10,19 @@
       <img src="img/profile.jpg" height="240px" width="240px">
     </div>
 
+    <div align="center" class="socialbtns">
+      <ul>
+        <li><a href="#" class="fa fa-lg fa-facebook"></a></li>
+        <li><a href="#" class="fa fa-lg fa-twitter"></a></li>
+        <li><a href="#" class="fa fa-lg fa-google-plus"></a></li>
+        <li><a href="#" class="fa fa-lg fa-github"></a></li>
+        <li><a href="#" class="fa fa-lg fa-pinterest"></a></li>
+        <li><a href="#" class="fa fa-lg fa-linkedin"></a></li>
+        <li><a href="#" class="fa fa-lg fa-instagram"></a></li>
+        <li><a href="#" class="fa fa-lg fa-youtube"></a></li>
+      </ul>
+    </div>
+
     <nav class="sidebar-nav">
       <a class="sidebar-nav-item{% if page.url == site.baseurl %} active{% endif %}" href="{{ site.baseurl }}">Home</a>
 
@@ -26,7 +39,7 @@
           {% endif %}
         {% endif %}
       {% endfor %}
-
+      
     </nav>
 
     <p>&copy; {{ site.time | date: '%Y' }}. All rights reserved.</p>
