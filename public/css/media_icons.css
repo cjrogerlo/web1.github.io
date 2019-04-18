@@ -6,7 +6,7 @@ a, a:hover {
 
 .socialbtns, .socialbtns ul, .socialbtns li {
   margin: 0;
-  padding: 1px;
+  padding: 0;
 }
 
 .socialbtns li {
