@@ -1,3 +1,1 @@
 Roger Chi-Jen Lo (羅啟仁) is a MS student in the [Graduate Institute of Communication Engineering, National Taiwan University](https://comm.ntu.edu.tw); he received his BS degree from the [Department of Electrical Engineering, National Taiwan University](https://web.ee.ntu.edu.tw/eng/index.php). He is recently under the mentorship of [Prof. Tsung-Nan Lin](http://ee.ntu.edu.tw/en/article/teacher.person/jobSN/1/navSN/356/webSN/376/teacherSN/44). For any other details, just survey this website, or feel free to contact him via email: <intelisef47@gmail.com>. Have a nice day!
-  
-![placeholder](http://placehold.it/800x400 "Large example image")
