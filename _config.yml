@@ -12,7 +12,7 @@ url:              http://RogerLo47.github.io
 baseurl:          /
 
 author:
-  name:           'Lo Chi-Jen'
-  url:            https://www.facebook.com/roger.lo.47.81
+name:             'Lo Chi-Jen'
+url:              https://www.facebook.com/roger.lo.47.81
 
 paginate:         5
