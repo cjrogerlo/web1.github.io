@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Blog Posts
+title: Archives
+permalink: /archives/
 ---
 <p>Here are my blog posts and articles. Enjoy.</p>
 

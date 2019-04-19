@@ -10,26 +10,26 @@ a, a:hover {
 }
 
 .socialbtns li {
-    list-style: none outside none;
-    display: inline-block;
+  list-style: none outside;
+  display: inline-block;
 }
 
 .socialbtns .fa {
-	width: 40px;
-    height: 40px;
-	color: #E5E5E5;
-	background-color: #FFF;
-	border: 1px solid #E5E5E5;
-	padding-top: 8.5px;
-	padding-left: 8.5px;
-	border-radius: 20px;
-	-moz-border-radius: 20px;
-	-webkit-border-radius: 20px;
-	-o-border-radius: 20px;
+  width: 40px;
+  height: 40px;
+  color: #E5E5E5;
+  background-color: #FFF;
+  border: 1px solid #E5E5E5;
+  text-align: center;
+  padding-top: 8.5px; 
+  border-radius: 20px;
+  -moz-border-radius: 20px;
+  -webkit-border-radius: 20px;
+  -o-border-radius: 20px;
 }
 
 .socialbtns .fa:hover {
-	color: #FFF;
-	background-color: #E5E5E5;
-	border: 1px solid #E5E5E5;
+  color: #FFF;
+  background-color: #E5E5E5;
+  border: 1px solid #E5E5E5;
 }

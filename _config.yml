@@ -1,9 +1,12 @@
 # Dependencies
 markdown:         redcarpet
+redcarpet:        
+extensions:       ["tables", "autolink", "strikethrough", 
+"space_after_headers", "with_toc_data", "fenced_code_blocks"]
 highlighter:      pygments
 
 # Permalinks
-permalink:        pretty
+permalink:        none
 
 # Setup
 title:            Roger Chi-Jen Lo
@@ -12,8 +15,11 @@ avatar:           "/img/profile.jpg"
 url:              "https://RogerLo47.github.io"
 baseurl:          "/"
 
+include:          ['_posts']
+
 author:           Roger Lo
 name:             Lo Chi-Jen
 url:              https://www.facebook.com/roger.lo.47.81
+email:            intelisef47@gmail.com
 
 paginate:         5
