@@ -3,7 +3,7 @@ markdown:         redcarpet
 redcarpet:        
 extensions:       ["tables", "autolink", "strikethrough", 
 "space_after_headers", "with_toc_data", "fenced_code_blocks"]
-highlighter:      pygments
+highlighter:      rouge
 
 # Permalinks
 permalink:        none
@@ -14,6 +14,12 @@ description:      NTUEE / NTU GICE
 avatar:           "/img/profile.jpg"
 url:              "https://RogerLo47.github.io"
 baseurl:          "/"
+format:           web
+sidebars:
+                  - Home
+                  - About
+                  - Archives
+                  - Publications
 
 include:          ['_posts']
 
