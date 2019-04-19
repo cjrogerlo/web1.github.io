@@ -2,7 +2,6 @@
 layout: page
 title: Blog Posts
 ---
-
 <p>Here are my blog posts and articles. Enjoy.</p>
 
 <div>

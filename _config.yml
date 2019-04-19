@@ -7,12 +7,13 @@ permalink:        pretty
 
 # Setup
 title:            Roger Chi-Jen Lo
-description:      'NTUEE / NTU GICE'
-url:              http://RogerLo47.github.io
-baseurl:          /
+description:      NTUEE / NTU GICE
+avatar:           "/img/profile.jpg"
+url:              "https://RogerLo47.github.io"
+baseurl:          "/"
 
 author:           Roger Lo
-name:             'Lo Chi-Jen'
+name:             Lo Chi-Jen
 url:              https://www.facebook.com/roger.lo.47.81
 
 paginate:         5
